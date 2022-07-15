@@ -42,6 +42,9 @@ img.o{
 .bottom-container{
     
 }
+.middle-container h3,.middle-container p{
+        padding: auto 8px auto 8px;
+}
 img.a{
     position: absolute;
     top: 80px;
